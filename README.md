@@ -20,7 +20,7 @@
 
 <h3>Competitive Programming: </h3>
 
-- **Leetcode**: [1900+ rating📈](https://leetcode.cn/u/acckno1/) 
+- **Leetcode**: [1900+ rating📈](https://leetcode.cn/u/20000608/) 
   
 <h4>Programming Languages: </h4>
 <p align="left">
