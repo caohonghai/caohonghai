@@ -2,7 +2,7 @@
 
 
  <p align="center">
-  <span> <img src="https://komarev.com/ghpvc/?username=caohonghai" alt="caohonghai"><img src="https://cp-logo.vercel.app/leetcode-cn/acckno1" alt="caohonghai"></span>
+  <span> <img src="https://komarev.com/ghpvc/?username=caohonghai" alt="caohonghai"><img src="https://cp-logo.vercel.app/leetcode-cn/20000608" alt="caohonghai"></span>
 </p>
 
 <h3 align="center">Web Developer</h3>
@@ -12,8 +12,8 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://img.smitish.com/uploads/2022/20220821183254.svg" />
 
-- 🔭 I’m currently using **Vue.js** for **Web Development**
-- 🌱 I’m currently learning ... **Vue.js and React.js**
+- 🔭 I’m currently using **Vue.js and React.js** for **Web Development**
+- 🌱 I’m currently learning ... **TypeScript and Three.js**
 - 💬 Ask me about ... **Web Develpoment & Algorithms**
 - 😄 Employement ... **Open for better full-time offers**
 - 📫 How to reach me **<a href="mailto:caohonghai7@gmail.com">caohonghai7@gmail.com</a>**
