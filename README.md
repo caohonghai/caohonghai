@@ -2,7 +2,7 @@
 
 
  <p align="center">
-  <span> <img src="https://komarev.com/ghpvc/?username=caohonghai" alt="caohonghai"><img src="https://cp-logo.vercel.app/leetcode-cn/20000608" alt="caohonghai"></span>
+  <span> <img src="https://komarev.com/ghpvc/?username=caohonghai" alt="caohonghai"><!-- <img src="https://cp-logo.vercel.app/leetcode-cn/20000608" alt="caohonghai"></span> -->
 </p>
 
 <h3 align="center">Web Developer</h3>
@@ -20,7 +20,7 @@
 
 <h3>Competitive Programming: </h3>
 
-- **Leetcode**: [1900+ rating📈](https://leetcode.cn/u/20000608/) 
+<!-- - **Leetcode**: [1900+ rating📈](https://leetcode.cn/u/20000608/) -->
   
 <h4>Programming Languages: </h4>
 <p align="left">
