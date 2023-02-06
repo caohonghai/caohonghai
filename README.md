@@ -27,8 +27,6 @@
     <img style="margin: auto;" src="https://img.smitish.com/uploads/2022/20220821183318.png" alt=cplusplus width="60" height="60"/>
     <img style="margin: auto;" src="https://img.smitish.com/uploads/2022/20220821183321.png" alt=c width="60" height="60"/>
     <img style="margin: auto;" src="https://img.smitish.com/uploads/2022/20220821183324.png" alt=python width="60" height="60"/>
-    <img style="margin: auto;" src="https://img.smitish.com/uploads/2022/20220821183327.png" alt=html5 width="60" height="60"/> 
-		<img style="margin: auto;" src="https://img.smitish.com/uploads/2022/20220821183329.png" alt=css3 width="60" height="60"/> 
     <img style="margin: auto;" src="https://img.smitish.com/uploads/2022/20220821183333.png" alt=javascript width="60" height="60"/>
 </p>
 
@@ -36,6 +34,8 @@
 <p align="left">
   <img style="margin: auto;" src="https://img.smitish.com/uploads/2022/20220821183539.png" alt=django width="60" height="60"/>
   <img style="margin: auto;" src="https://img.smitish.com/uploads/2022/20220821183549.png" alt=react width="60" height="60"/> 
+	    <img style="margin: auto;" src="https://img.smitish.com/uploads/2022/20220821183327.png" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://img.smitish.com/uploads/2022/20220821183329.png" alt=css3 width="60" height="60"/> 
   <img style="margin: auto;" src="https://img.smitish.com/uploads/2022/20220821183552.png" alt=webpack width="60" height="60"/>
   <img style="margin: auto;" src="https://img.smitish.com/uploads/2022/20220821183555.png" alt=babel width="60" height="60"/>
   <img style="margin: auto;" src="https://img.smitish.com/uploads/2022/20220821183558.png" alt=sass width="60" height="60"/>
